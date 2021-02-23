@@ -1,11 +1,4 @@
-# Free travel website template - ARCHIVED
 
-Nice fluid website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
-
-Demo: [http://website-templates.github.io/travel_fluid-template/](http://website-templates.github.io/travel_fluid-template/)
-
-![Mockup demo](screenshots/pic.jpg)
-Product mockup created with [http://frame.lab25.co.uk/](http://frame.lab25.co.uk/)
 
 ## Contents
 
@@ -177,7 +170,4 @@ Grunt: `grunt server`
 
 This project uses BrowserSync as static server with enabled and configured live reload option.
 
-## License
-
-[MIT](https://github.com/website-templates/travel_fluid-template/blob/master/LICENSE.md)
 # travel-website-template
